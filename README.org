@@ -1,1 +1,5 @@
-You can find my code on [[https://git.sr.ht/~cyborg][Sourcehut]].
+* Howdy, I'm Christian. 🤠
+
+I'm an information technology auditor by profession and programmer by hobby.
+
+Feel free to [[mailto:hello@cleberg.net][email me]] ([[https://cleberg.net/gpg.txt][GPG]]) or browse [[https://cleberg.net/][my website]] for more contact details.
