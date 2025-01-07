@@ -1,5 +1,5 @@
 * Howdy, I'm Christian. 🤠
 
-I'm an information technology auditor by profession and programmer by hobby.
+I'm an information technology auditor by profession and programmer by hobby. Most of my code can be found on Sourcehut: [[https://sr.ht/~cyborg/][~cyborg]].
 
 Feel free to [[mailto:hello@cleberg.net][email me]] ([[https://cleberg.net/gpg.txt][GPG]]) or browse [[https://cleberg.net/][my website]] for more contact details.
