@@ -1,5 +1,13 @@
-* I'm Christian.
+* Hi, I'm Christian 👋
 
-I'm an information technology auditor by profession and programmer by hobby.
+I'm an information technology auditor by day ☼ and a hobbyist programmer/sysadmin by night ☾
+
+Tech Assurance Manager at [[https://kpmg.com/us][KPMG]];\\
+Self-Hosting [[https://cmc.pub/services/][various services]];
+
+- ⚙️ I use daily: =.org=, =.el=, =.sh=, =.py=
+- 🌍 I'm mostly active within the *Privacy* and *Homelab* communities
+- 💅 Designed: [[https://github.com/ccleberg/cmc.pub][cmc.pub]], [[https://github.com/ccleberg/audit-tools][audit-tools]], [[https://github.com/ccleberg/yoshi-cli][yoshi-cli]]
+- 💬 =ping= me about *privacy*, *self-hosting*, *homelab*, *pubnix*, *org-mode*
 
 Feel free to [[mailto:hello@cmc.pub][email me]] ([[https://cmc.pub/gpg.txt][GPG]]) or browse [[https://cmc.pub/][my website]] for more information.
