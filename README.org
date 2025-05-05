@@ -1,3 +1,13 @@
-My source code is available on [[https://git.sr.ht/~cyborg][sourcehut]].
+* Hi, I'm Christian 👋
 
-Feel free to [[mailto:hello@cleberg.net][email me]] ([[https://cleberg.net/gpg.txt][GPG]]) or browse [[https://cleberg.net/][my website]] for more information.
+I'm an information technology auditor by day ☼ and a hobbyist programmer/sysadmin by night ☾
+
+Tech Assurance Manager at [[https://kpmg.com/us][KPMG]];\\
+Self-Hosting [[https://cleberg.net/services/][various services]];
+
+- ⚙️ I use daily: =.org=, =.el=, =.sh=, =.py=
+- 🌍 I'm mostly active within the *Privacy* and *Homelab* communities
+- 💅 Designed: [[https://github.com/ccleberg/cleberg.net][cleberg.net]], [[https://github.com/ccleberg/audit-tools][audit-tools]], [[https://github.com/ccleberg/yoshi-cli][yoshi-cli]], [[https://github.com/ccleberg/nba-scores][nba-scores]]
+- 💬 =ping= me about *privacy*, *self-hosting*, *homelab*, *pubnix*, *org-mode*
+
+Feel free to [[mailto:hello@cleberg.net][email me]] ([[https://cleberg.net/gpg.txt][GPG]]) or browse [[https://cmc.pub/][my website]] for more information.
