@@ -10,4 +10,4 @@ Self-Hosting [[https://cleberg.net/services/][various services]];
 - 💅 Designed: [[https://github.com/ccleberg/cleberg.net][cleberg.net]], [[https://github.com/ccleberg/audit-tools][audit-tools]], [[https://github.com/ccleberg/yoshi-cli][yoshi-cli]], [[https://github.com/ccleberg/nba-scores][nba-scores]]
 - 💬 =ping= me about *privacy*, *self-hosting*, *homelab*, *pubnix*, *org-mode*
 
-Feel free to [[mailto:hello@cleberg.net][email me]] ([[https://cleberg.net/gpg.txt][GPG]]) or browse [[https://cmc.pub/][my website]] for more information.
+Feel free to [[mailto:hello@cleberg.net][email me]] ([[https://cleberg.net/gpg.txt][GPG]]) or browse [[https://cleberg.net/][my website]] for more information.
