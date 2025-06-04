@@ -1,13 +1,59 @@
-* Hi, I'm Christian 👋
+                ██████╗██╗     ███████╗██████╗ ███████╗██████╗  ██████╗ 
+               ██╔════╝██║     ██╔════╝██╔══██╗██╔════╝██╔══██╗██╔════╝ 
+               ██║     ██║     █████╗  ██████╔╝█████╗  ██████╔╝██║  ███╗
+               ██║     ██║     ██╔══╝  ██╔══██╗██╔══╝  ██╔══██╗██║   ██║
+               ╚██████╗███████╗███████╗██████╔╝███████╗██║  ██║╚██████╔╝
+                ╚═════╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ 
 
-I'm an information technology auditor by day ☼ and a hobbyist programmer/sysadmin by night ☾
+                         I N F O R M A T I O N   S Y S T E M S
+                                 U S E R   F I L E
 
-Tech Assurance Manager at [[https://kpmg.com/us][KPMG]];\\
-Self-Hosting [[https://cleberg.net/services/][various services]];
+                                ────────────────
+                                 FILE: CCLEBERG
+                            LAST MODIFIED: ∞-RUNNING
+                                ────────────────
 
-- ⚙️ I use daily: =.org=, =.el=, =.sh=, =.py=
-- 🌍 I'm mostly active within the *Privacy* and *Homelab* communities
-- 💅 Designed: [[https://github.com/ccleberg/cleberg.net][cleberg.net]], [[https://github.com/ccleberg/audit-tools][audit-tools]], [[https://github.com/ccleberg/yoshi-cli][yoshi-cli]], [[https://github.com/ccleberg/nba-scores][nba-scores]]
-- 💬 =ping= me about *privacy*, *self-hosting*, *homelab*, *pubnix*, *org-mode*
 
-Feel free to [[mailto:hello@cleberg.net][email me]] ([[https://cleberg.net/gpg.txt][GPG]]) or browse [[https://cleberg.net/][my website]] for more information.
+  IDENTIFICATION
+  --------------
+  DESIGNATION:         C. CLEBERG
+  ROLE:                TECHNNOLOGY ASSURANCE MANAGER
+  DAY PROCESS:         INFORMATION SYSTEMS AUDIT
+  NIGHT PROCESS:       SELF-HOSTED SYSTEMS MAINTENANCE / CODE EXECUTION
+
+  COMMUNICATION
+  --------------
+  PRIMARY NODE:        <hello@cleberg.net>
+  ENCRYPTION KEY:      ↪ https://cleberg.net/gpg.txt
+  MAINFRAME ACCESS:    ↪ https://cleberg.net/
+
+  TERMINAL ACTIVITY
+  ------------------
+  EXECUTABLES IN CYCLE:
+     - .ORG  :: EMACS ORG MODE — PRIMARY DOCUMENTATION FORMAT
+     - .EL   :: EMACS LISP — ENVIRONMENT EXTENSION LAYER
+     - .SH   :: POSIX SHELL — SYSTEM ORCHESTRATION
+     - .PY   :: PYTHON — ANALYSIS & AUTOMATION ROUTINES
+
+  COMMUNITIES OF OPERATION:
+     - *PRIVACY INFRASTRUCTURE*
+     - *HOME SYSTEM LABORATORIES (HOMELAB)*
+
+  DEFINED PROJECTS:
+     • cleberg.net   → UI/UX ENGINEERED HOMESITE (↪ https://github.com/ccleberg/cleberg.net)
+     • audit-tools   → INTERNAL CONTROL UTILITIES (↪ https://github.com/ccleberg/audit-tools)
+     • yoshi-cli     → SHELL-FIRST USER INTERFACE (↪ https://github.com/ccleberg/yoshi-cli)
+     • nba-scores    → SPORTS TELETYPE DISPLAY (↪ https://github.com/ccleberg/nba-scores)
+
+  INTERACTION PROTOCOL
+  ---------------------
+  BROADCAST TOPICS:
+     - PRIVACY NETWORKS
+     - SELF-HOSTED SYSTEMS
+     - PUBNIX ARCHITECTURE
+     - ORG-MODE WORKFLOWS
+
+  INQUIRIES: INITIATE `PING` OR `MAIL` ROUTINES
+
+  STATUS: SYSTEM NOMINAL
+  VERSION: NONLINEAR / NONPROPRIETARY
