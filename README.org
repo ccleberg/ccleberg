@@ -1,64 +1,40 @@
-#+TITLE: CCLEBERG – SYSTEM USER RECORD
-#+AUTHOR: Christian Cleberg
-#+OPTIONS: toc:nil num:nil
-#+DESCRIPTION: GitHub profile of Christian Cleberg – Tech Assurance Manager, self-hosting sysadmin, privacy advocate.
-#+STARTUP: showall
+#+BEGIN_SRC emacs-lisp
+;; ─────────────────────────────────────────────────────────────────────
+;; SYSTEM DUMP: ccleberg
+;; CONTEXT: ~/people/cleberg.el
+;; DATE: (current-time)
+;; ─────────────────────────────────────────────────────────────────────
 
-#+BEGIN_SRC text
-                    S Y S T E M   U S E R   R E C O R D
+(defstruct person
+  name             "Christian Cleberg"
+  alias            "ccleberg"
+  role-day         "Tech Assurance Manager, KPMG LLP"
+  role-night       "Hobbyist Sysadmin & Self-Hoster"
+  location         "https://cleberg.net"
+  contact          "hello@cleberg.net"
+  gpg              "https://cleberg.net/gpg.txt"
+  interests        '("privacy" "self-hosting" "pubnix" "org-mode")
+  languages        '(".org" ".el" ".sh" ".py")
+  community        '("Privacy Infrastructure" "Homelab Networkers" "Pubnix Users")
+  availability     '(:status 'nominal :protocol 'ping)
+  featured-projects
+  '(("cleberg.net"   . "https://github.com/ccleberg/cleberg.net")
+    ("audit-tools"   . "https://github.com/ccleberg/audit-tools")
+    ("yoshi-cli"     . "https://github.com/ccleberg/yoshi-cli")
+    ("nba-scores"    . "https://github.com/ccleberg/nba-scores")))
 
-                 USER IDENTIFICATION AND SYSTEM FUNCTION
+;; ─────────────────────────────────────────────────────────────────────
+;; SYSTEM FUNCTIONS
 
-──────────────────────────────────────────────────────────────────────────────
+(defun ping (topic)
+  "Send inquiry to Christian on a relevant topic.
+Valid topics include: 'privacy, 'homelab, 'org-mode, 'self-hosting."
+  (when (member topic '(privacy homelab org-mode self-hosting pubnix))
+    (message \"Ping acknowledged: Christian will respond shortly.\")))
 
- RECORD ID:           CCLEBERG
- PRIMARY FUNCTION:    SYSTEMS AUDITOR (DAY)
- SECONDARY FUNCTION:  SELF-HOSTED OPERATOR (NIGHT)
+;; Example usage:
+;;   (ping 'homelab)
 
- ORGANIZATION:        KPMG LLP — TECHNICAL ASSURANCE UNIT
- SYSTEM LOCATION:     ↪ https://cleberg.net/
-
-──────────────────────────────────────────────────────────────────────────────
-
- SYSTEM TOOLS UTILIZED (DAILY ROTATION):
-
-   FILE EXTENSIONS:   [.ORG] EMACS ORG-MODE — STRUCTURED DOCUMENTATION
-                      [.EL]  EMACS LISP — CONFIGURATION AUTOMATION
-                      [.SH]  BOURNE SHELL — SYSTEM BOOTSTRAP SCRIPTS
-                      [.PY]  PYTHON — DATA EVALUATION AND SERVICE ROUTINES
-
-──────────────────────────────────────────────────────────────────────────────
-
- COMMUNITY ALIGNMENT:
-
-   OPERATING DOMAINS:    PRIVACY-FIRST INFRASTRUCTURE
-                         DECENTRALIZED HOMELAB ENVIRONMENTS
-                         PUBNIX-STYLE OPERATIONS
-                         ORG-MODE WORKFLOWS (EMACS)
-
-──────────────────────────────────────────────────────────────────────────────
-
- AUTHORED UTILITIES (SELECTED EXAMPLES):
-
-   cleberg.net     ↪ https://github.com/ccleberg/cleberg.net
-   audit-tools     ↪ https://github.com/ccleberg/audit-tools
-   yoshi-cli       ↪ https://github.com/ccleberg/yoshi-cli
-   nba-scores      ↪ https://github.com/ccleberg/nba-scores
-
-──────────────────────────────────────────────────────────────────────────────
-
- COMMUNICATION PROTOCOLS:
-
-   PRIMARY CONTACT ADDRESS:       <hello@cleberg.net>
-   GPG PUBLIC KEY (RECOMMENDED):  ↪ https://cleberg.net/gpg.txt
-
-   AVAILABILITY STATUS:           NOMINAL
-   INQUIRY TYPE:                  TECHNICAL / PRIVACY / SYSTEMS
-   INITIATE:                      =ping= via GitHub Issues or Email
-
-──────────────────────────────────────────────────────────────────────────────
-
- RECORD VERSION: 1.0 (NONPROPRIETARY)
- RECORD FORMAT:  ASCII-COMPLIANT
- CHANGELOG:      CONTINUOUS, UNTRACKED
+;; ─────────────────────────────────────────────────────────────────────
+;; END OF DUMP
 #+END_SRC
