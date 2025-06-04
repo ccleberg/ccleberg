@@ -1,40 +1,60 @@
-#+BEGIN_SRC emacs-lisp
-;; ─────────────────────────────────────────────────────────────────────
-;; SYSTEM DUMP: ccleberg
-;; CONTEXT: ~/people/cleberg.el
-;; DATE: (current-time)
-;; ─────────────────────────────────────────────────────────────────────
+#+begin_src text
+──────────────────────────────────────────────────────────────────────────────
+                          C L E B E R G   .   N F O
+──────────────────────────────────────────────────────────────────────────────
 
-(defstruct person
-  name             "Christian Cleberg"
-  alias            "ccleberg"
-  role-day         "Tech Assurance Manager, KPMG LLP"
-  role-night       "Hobbyist Sysadmin & Self-Hoster"
-  location         "https://cleberg.net"
-  contact          "hello@cleberg.net"
-  gpg              "https://cleberg.net/gpg.txt"
-  interests        '("privacy" "self-hosting" "pubnix" "org-mode")
-  languages        '(".org" ".el" ".sh" ".py")
-  community        '("Privacy Infrastructure" "Homelab Networkers" "Pubnix Users")
-  availability     '(:status 'nominal :protocol 'ping)
-  featured-projects
-  '(("cleberg.net"   . "https://github.com/ccleberg/cleberg.net")
-    ("audit-tools"   . "https://github.com/ccleberg/audit-tools")
-    ("yoshi-cli"     . "https://github.com/ccleberg/yoshi-cli")
-    ("nba-scores"    . "https://github.com/ccleberg/nba-scores")))
+            USER: Christian Cleberg (ccleberg)
+            ROLE: Tech Assurance Manager @ KPMG
+                  Hobbyist Programmer & Homelab Sysadmin
+            SITE: https://cleberg.net
+            GPG : https://cleberg.net/gpg.txt
+            EMAIL: hello@cleberg.net
 
-;; ─────────────────────────────────────────────────────────────────────
-;; SYSTEM FUNCTIONS
+──────────────────────────────────────────────────────────────────────────────
 
-(defun ping (topic)
-  "Send inquiry to Christian on a relevant topic.
-Valid topics include: 'privacy, 'homelab, 'org-mode, 'self-hosting."
-  (when (member topic '(privacy homelab org-mode self-hosting pubnix))
-    (message \"Ping acknowledged: Christian will respond shortly.\")))
+   ▒▒▒ TOOLS IN ROTATION ▒▒▒
 
-;; Example usage:
-;;   (ping 'homelab)
+       [.org] → Emacs Org-mode   → Docs, structure, workflow
+       [.el ] → Emacs Lisp       → Configs, custom extensions
+       [.sh ] → Bourne Shell      → Automation & provisioning
+       [.py ] → Python            → Scripts, parsing, systems glue
 
-;; ─────────────────────────────────────────────────────────────────────
-;; END OF DUMP
-#+END_SRC
+──────────────────────────────────────────────────────────────────────────────
+
+   ▒▒▒ INTEREST ZONES ▒▒▒
+
+       • Privacy-first infrastructure
+       • Decentralized self-hosting
+       • Pubnix systems & user-owned networks
+       • Minimal, extensible workflows (esp. in Emacs/Org-mode)
+
+──────────────────────────────────────────────────────────────────────────────
+
+   ▒▒▒ AUTHORED PROJECTS ▒▒▒
+
+       cleberg.net   - https://github.com/ccleberg/cleberg.net
+       audit-tools   - https://github.com/ccleberg/audit-tools
+       yoshi-cli     - https://github.com/ccleberg/yoshi-cli
+       nba-scores    - https://github.com/ccleberg/nba-scores
+
+──────────────────────────────────────────────────────────────────────────────
+
+   ▒▒▒ INTERACTION PROTOCOLS ▒▒▒
+
+       Ping available via GitHub issues or direct email.
+       Acceptable topics: Privacy, Self-hosting, Org-mode, Pubnix.
+
+       STATUS:        SYSTEM NOMINAL
+       UPLINK:        ↪ hello@cleberg.net
+       KEY:           ↪ https://cleberg.net/gpg.txt
+
+──────────────────────────────────────────────────────────────────────────────
+
+   ▒▒▒ BOOTUP MESSAGE ▒▒▒
+
+       “We own the box. We write the rules.”
+
+──────────────────────────────────────────────────────────────────────────────
+                         CLEBERG ∙ PROFILE ∙ NONPROPRIETARY
+──────────────────────────────────────────────────────────────────────────────
+#+end_src
