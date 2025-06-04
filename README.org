@@ -1,60 +1,65 @@
 #+begin_src text
-──────────────────────────────────────────────────────────────────────────────
-                          C L E B E R G   .   N F O
-──────────────────────────────────────────────────────────────────────────────
+cleberg.nfo
+===============================================================================
 
-            USER: Christian Cleberg (ccleberg)
-            ROLE: Tech Assurance Manager @ KPMG
-                  Hobbyist Programmer & Homelab Sysadmin
-            SITE: https://cleberg.net
-            GPG : https://cleberg.net/gpg.txt
-            EMAIL: hello@cleberg.net
+User              : Christian Cleberg (ccleberg)
+Role              : Tech Assurance Manager @ KPMG (Day)
+                    Hobbyist Programmer & Homelab Sysadmin (Night)
 
-──────────────────────────────────────────────────────────────────────────────
+Website           : https://cleberg.net
+GPG Key           : https://cleberg.net/gpg.txt
+Email             : hello@cleberg.net
 
-   ▒▒▒ TOOLS IN ROTATION ▒▒▒
+-------------------------------------------------------------------------------
 
-       [.org] → Emacs Org-mode   → Docs, structure, workflow
-       [.el ] → Emacs Lisp       → Configs, custom extensions
-       [.sh ] → Bourne Shell      → Automation & provisioning
-       [.py ] → Python            → Scripts, parsing, systems glue
+TOOLS IN ROTATION
 
-──────────────────────────────────────────────────────────────────────────────
+  .org    → Emacs Org-mode         (Docs, planning, repeatable systems)
+  .el     → Emacs Lisp             (Custom configs, automation)
+  .sh     → Bourne Shell Scripts   (Self-hosting routines, cron jobs)
+  .py     → Python                 (APIs, scripting, systems logic)
 
-   ▒▒▒ INTEREST ZONES ▒▒▒
+-------------------------------------------------------------------------------
 
-       • Privacy-first infrastructure
-       • Decentralized self-hosting
-       • Pubnix systems & user-owned networks
-       • Minimal, extensible workflows (esp. in Emacs/Org-mode)
+INTEREST ZONES
 
-──────────────────────────────────────────────────────────────────────────────
+  • Privacy-first infrastructure
+  • Decentralized self-hosting
+  • Pubnix systems / tilde communities
+  • Minimal, extensible workflows (esp. Emacs / Org-mode)
 
-   ▒▒▒ AUTHORED PROJECTS ▒▒▒
+-------------------------------------------------------------------------------
 
-       cleberg.net   - https://github.com/ccleberg/cleberg.net
-       audit-tools   - https://github.com/ccleberg/audit-tools
-       yoshi-cli     - https://github.com/ccleberg/yoshi-cli
-       nba-scores    - https://github.com/ccleberg/nba-scores
+AUTHORED PROJECTS
 
-──────────────────────────────────────────────────────────────────────────────
+  cleberg.net   → https://github.com/ccleberg/cleberg.net
+  audit-tools   → https://github.com/ccleberg/audit-tools
+  yoshi-cli     → https://github.com/ccleberg/yoshi-cli
+  nba-scores    → https://github.com/ccleberg/nba-scores
 
-   ▒▒▒ INTERACTION PROTOCOLS ▒▒▒
+-------------------------------------------------------------------------------
 
-       Ping available via GitHub issues or direct email.
-       Acceptable topics: Privacy, Self-hosting, Org-mode, Pubnix.
+INTERACTION PROTOCOLS
 
-       STATUS:        SYSTEM NOMINAL
-       UPLINK:        ↪ hello@cleberg.net
-       KEY:           ↪ https://cleberg.net/gpg.txt
+  Ping via GitHub issues or direct email.
 
-──────────────────────────────────────────────────────────────────────────────
+  Acceptable topics:
+    - privacy
+    - self-hosting
+    - pubnix
+    - org-mode
 
-   ▒▒▒ BOOTUP MESSAGE ▒▒▒
+  Status        : SYSTEM NOMINAL
+  Uplink        : hello@cleberg.net
+  Fingerprint   : see GPG key link above
 
-       “We own the box. We write the rules.”
+-------------------------------------------------------------------------------
 
-──────────────────────────────────────────────────────────────────────────────
-                         CLEBERG ∙ PROFILE ∙ NONPROPRIETARY
-──────────────────────────────────────────────────────────────────────────────
+BOOTUP QUOTE
+
+  “We own the box. We write the rules.”
+
+===============================================================================
+Profile Format: ASCII Text (.nfo) — View in terminal or monospaced text viewer.
+===============================================================================
 #+end_src
