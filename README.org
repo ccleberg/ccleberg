@@ -10,48 +10,9 @@ Website           : https://cleberg.net
 GPG Key           : https://cleberg.net/gpg.txt
 Email             : hello@cleberg.net
 
--------------------------------------------------------------------------------
-
-TOOLS IN ROTATION
-
-  .org    → Emacs Org-mode         (Docs, planning, repeatable systems)
-  .el     → Emacs Lisp             (Custom configs, automation)
-  .sh     → Bourne Shell Scripts   (Self-hosting routines, cron jobs)
-  .py     → Python                 (APIs, scripting, systems logic)
-
--------------------------------------------------------------------------------
-
-INTEREST ZONES
-
-  • Privacy-first infrastructure
-  • Decentralized self-hosting
-  • Pubnix systems / tilde communities
-  • Minimal, extensible workflows (esp. Emacs / Org-mode)
-
--------------------------------------------------------------------------------
-
-AUTHORED PROJECTS
-
-  cleberg.net   → https://github.com/ccleberg/cleberg.net
-  audit-tools   → https://github.com/ccleberg/audit-tools
-  yoshi-cli     → https://github.com/ccleberg/yoshi-cli
-  nba-scores    → https://github.com/ccleberg/nba-scores
-
--------------------------------------------------------------------------------
-
-INTERACTION PROTOCOLS
-
-  Ping via GitHub issues or direct email.
-
-  Acceptable topics:
-    - privacy
-    - self-hosting
-    - pubnix
-    - org-mode
-
-  Status        : SYSTEM NOMINAL
-  Uplink        : hello@cleberg.net
-  Fingerprint   : see GPG key link above
+Status            : SYSTEM NOMINAL
+Uplink            : hello@cleberg.net
+Fingerprint       : see GPG key link above
 
 -------------------------------------------------------------------------------
 
