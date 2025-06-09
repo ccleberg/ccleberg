@@ -12,7 +12,7 @@ Email             : hello@cleberg.net
 
 Status            : SYSTEM NOMINAL
 Uplink            : hello@cleberg.net
-Fingerprint       : see GPG key link above
+Fingerprint       : 3917 973F B159 BBB8 6194 5385 6945 1A51 7AC0 CB37
 
 -------------------------------------------------------------------------------
 
