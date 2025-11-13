@@ -18,4 +18,4 @@ jobs:
         with:
           feed_list: "https://cleberg.net/feed.xml"
           date_format: "yyyy-mm-dd"
-          template: "- [$title]($url) ($date)"
+          template: "- [$title]($url) ($date)$newline"
