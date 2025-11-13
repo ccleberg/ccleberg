@@ -6,10 +6,4 @@ I host a website at [cleberg.net](https://cleberg.net) with a [blog](https://cle
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Using aerc on macOS](https://cleberg.net/blog/aerc-macos.html)
-- [Digital Garden](https://cleberg.net/blog/digital-garden.html)
-- [Playing Rocket League on macOS via CrossOver](https://cleberg.net/blog/rocket-league-macos.html)
-- [My Privacy Toolkit](https://cleberg.net/blog/privacy-toolkit.html)
-- [Simplifying the Site: A Minimalist Approach](https://cleberg.net/blog/minimalist-website-redesign.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Using aerc on macOS](https://cleberg.net/blog/aerc-macos.html) (2025-11-02)- [Digital Garden](https://cleberg.net/blog/digital-garden.html) (2025-10-25)- [Playing Rocket League on macOS via CrossOver](https://cleberg.net/blog/rocket-league-macos.html) (2025-10-06)- [My Privacy Toolkit](https://cleberg.net/blog/privacy-toolkit.html) (2025-10-03)- [Simplifying the Site: A Minimalist Approach](https://cleberg.net/blog/minimalist-website-redesign.html) (2025-09-26)<!-- BLOG-POST-LIST:END -->
