@@ -7,4 +7,8 @@ I host a website at [cleberg.net](https://cleberg.net) with a [blog](https://cle
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Practical Uses for AI in IT Audit](https://cleberg.net/blog/it-audit-ai.html) (2025-11-23)
+- [Striving for 100% WCAG 2 Compliance](https://cleberg.net/blog/wcag.html) (2025-11-15)
+- [Using aerc on macOS](https://cleberg.net/blog/aerc-macos.html) (2025-11-02)
+- [Digital Garden](https://cleberg.net/blog/digital-garden.html) (2025-10-25)
+- [Playing Rocket League on macOS via CrossOver](https://cleberg.net/blog/rocket-league-macos.html) (2025-10-06)<!-- BLOG-POST-LIST:END -->
