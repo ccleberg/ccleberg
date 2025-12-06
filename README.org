@@ -24,4 +24,4 @@
                           :url "https://cleberg.net/blog/digital-garden.html")))))
 #+end_src
 
-/psst! you can run [[christian.el][./christian.el]] in emacs to view this information dynamically/
+/psst! you can run [[christian.el]] in emacs to view this information dynamically/
