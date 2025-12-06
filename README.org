@@ -1,23 +1,4 @@
 #+begin_src el
-;;; christian.el --- Personal profile & blog index -*- lexical-binding: t -*-
-
-;; Author:  Christian Cleberg <hello@cleberg.net>
-;; Version: 0.1
-;; Keywords: privacy, security, self-hosting
-;; Package-Requires: ((emacs "27.1"))
-
-;;; Commentary:
-
-;;   I'm a Tech Assurance Manager at KPMG.
-;;   I run a personal site at https://cleberg.net which contains:
-;;       - a blog,
-;;       - information about me,
-;;       - publicly‑hosted services.
-;;
-;;   Prefer Tor?  Use the .onion address for the same content.
-
-;;; Code:
-
 (defvar christian/profile
   '((name        . "Christian")
     (email       . "hello@cleberg.net")
@@ -41,24 +22,6 @@
                   (:date "2025-10-25"
                           :title "Digital Garden"
                           :url "https://cleberg.net/blog/digital-garden.html")))))
-
-(defun christian/display-profile ()
-  "Pretty‑print the profile in a *Help* buffer."
-  (interactive)
-  (with-help-window "*Christian Profile*"
-    (princ (format "%s %s\n\n" (alist-get 'name christian/profile)
-                   (alist-get 'emoji christian/profile)))
-    (princ (format "%s\n\n" (alist-get 'role christian/profile)))
-    (princ (format "Website: %s\n" (alist-get 'site-url christian/profile)))
-    (princ (format "Tor (onion): %s\n\n" (alist-get 'tor-url christian/profile)))
-    (princ "=== Latest Blog Posts ===\n")
-    (dolist (post (alist-get 'blog-posts christian/profile))
-      (princ (format "- %s (%s)\n  %s\n"
-                     (plist-get post :title)
-                     (plist-get post :date)
-                     (plist-get post :url))))))
-
-(provide 'christian)
-
-;;; christian.el ends here
 #+end_src
+
+/psst! you can run [[christian.el][./christian.el]] in emacs to view this information dynamically/
