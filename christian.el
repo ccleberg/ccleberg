@@ -27,16 +27,16 @@
     (blog-posts  .
                  ((:date "2025-12-06"
                           :title "Self‑Hosting Guide: Tor Websites"
-                          :url "https://cleberg.net/blog/self-hosting-guide-tor-websites.html")
+                          :url "https://cleberg.net/blog/self-hosting-tor.html")
                   (:date "2025-11-23"
                           :title "Practical Uses for AI in IT Audit"
-                          :url "https://cleberg.net/blog/practical-uses-for-ai-in-it-audit.html")
+                          :url "https://cleberg.net/blog/it-audit-ai.html")
                   (:date "2025-11-15"
                           :title "Striving for 100% WCAG 2 Compliance"
-                          :url "https://cleberg.net/blog/striving-for-100-wcag-2-compliance.html")
+                          :url "https://cleberg.net/blog/wcag.html")
                   (:date "2025-11-02"
                           :title "Using aerc on macOS"
-                          :url "https://cleberg.net/blog/using-aerc-on-macos.html")
+                          :url "https://cleberg.net/blog/aerc-macos.html")
                   (:date "2025-10-25"
                           :title "Digital Garden"
                           :url "https://cleberg.net/blog/digital-garden.html")))))
