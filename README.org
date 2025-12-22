@@ -8,9 +8,9 @@
     (tor-url     . "http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion")
     (blog-posts  .
                  ((:date "2025-12-20"
-			  :title "Self-Hosting Guide: Home Assistant"
-			  :url "https://cleberg.net/blog/self-hosting-home-assistant.html")
-		  (:date "2025-12-06"
+			              :title "Self-Hosting Guide: Home Assistant"
+		           	      :url "https://cleberg.net/blog/self-hosting-home-assistant.html")
+		          (:date "2025-12-06"
                           :title "Self‑Hosting Guide: Tor Websites"
                           :url "https://cleberg.net/blog/self-hosting-tor.html")
                   (:date "2025-11-23"
