@@ -25,7 +25,10 @@
     (site-url    . "https://cleberg.net")
     (tor-url     . "http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion")
     (blog-posts  .
-                 ((:date "2025-12-06"
+                 ((:date "2025-12-20"
+                          :title "Self-Hosting Guide: Home Assistant"
+                          :url "https://cleberg.net/blog/self-hosting-home-assistant.html")
+                  (:date "2025-12-06"
                           :title "Self‑Hosting Guide: Tor Websites"
                           :url "https://cleberg.net/blog/self-hosting-tor.html")
                   (:date "2025-11-23"
@@ -36,10 +39,7 @@
                           :url "https://cleberg.net/blog/wcag.html")
                   (:date "2025-11-02"
                           :title "Using aerc on macOS"
-                          :url "https://cleberg.net/blog/aerc-macos.html")
-                  (:date "2025-10-25"
-                          :title "Digital Garden"
-                          :url "https://cleberg.net/blog/digital-garden.html")))))
+                          :url "https://cleberg.net/blog/aerc-macos.html")))))
 
 (defun christian/display-profile ()
   "Pretty‑print the profile in a *Help* buffer."
