@@ -26,6 +26,16 @@
     (tor-url     . "http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion")
     (blog-posts  .
                  ((:date "2026-02-02"
+<<<<<<< HEAD
+                   :title "Emacs Carnival: “This Year, I Will...”"
+                   :date "https://cleberg.net/blog/emacs-carnival-2026-02-completion.html")
+                  (:date "2026-01-31"
+                   :title "Emacs Carnival: “This Year, I Will...”"
+                   :url "https://cleberg.net/blog/emacs-carnival-2026-01-this-year-i-will.html")
+                  (:date "2025-12-20"
+                   :title "Self-Hosting Guide: Home Assistant"
+                   :url "https://cleberg.net/blog/self-hosting-home-assistant.html")
+=======
                          :title "Emacs Carnival: “This Year, I Will...”"
                          :url "https://cleberg.net/blog/emacs-carnival-2026-01-this-year-i-will.html")
                   (:date "2026-01-31"
@@ -34,12 +44,18 @@
                   (:date "2025-12-20"
                          :title "Self-Hosting Guide: Home Assistant"
                          :url "https://cleberg.net/blog/self-hosting-home-assistant.html")
+>>>>>>> ec4babd (add latest post)
                   (:date "2025-12-06"
-                          :title "Self‑Hosting Guide: Tor Websites"
-                          :url "https://cleberg.net/blog/self-hosting-tor.html")
+                   :title "Self‑Hosting Guide: Tor Websites"
+                   :url "https://cleberg.net/blog/self-hosting-tor.html")
                   (:date "2025-11-23"
+<<<<<<< HEAD
+                   :title "Practical Uses for AI in IT Audit"
+                   :url "https://cleberg.net/blog/it-audit-ai.html")))))
+=======
                           :title "Practical Uses for AI in IT Audit"
                           :url "https://cleberg.net/blog/it-audit-ai.html")))))
+>>>>>>> ec4babd (add latest post)
 
 (defun christian/display-profile ()
   "Pretty‑print the profile in a *Help* buffer."

@@ -9,7 +9,11 @@
     (blog-posts  .
                  ((:date "2026-02-02"
                          :title "Emacs Carnival: “This Year, I Will...”"
+<<<<<<< HEAD
+                         :url "https://cleberg.net/blog/emacs-carnival-2026-02-completion.html")
+=======
                          :url "https://cleberg.net/blog/emacs-carnival-2026-01-this-year-i-will.html")
+>>>>>>> ec4babd (add latest post)
                   (:date "2026-01-31"
                          :title "Emacs Carnival: “This Year, I Will...”"
                          :url "https://cleberg.net/blog/emacs-carnival-2026-01-this-year-i-will.html")
