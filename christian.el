@@ -25,7 +25,10 @@
     (site-url    . "https://cleberg.net")
     (tor-url     . "http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion")
     (blog-posts  .
-                 ((:date "2026-02-02"
+                 ((:date "2026-02-07"
+                         :title "IndieWeb Carnival: Intersecting Interests"
+                         :url "https://cleberg.net/blog/indiweb-carnival-2026-02-intersecting-interests>
+                 (:date "2026-02-02"
                          :title "Emacs Carnival: “Completion”"
                          :url "https://cleberg.net/blog/emacs-carnival-2026-02-completion.html")
                   (:date "2026-01-31"
@@ -36,10 +39,7 @@
                          :url "https://cleberg.net/blog/self-hosting-home-assistant.html")
                   (:date "2025-12-06"
                           :title "Self‑Hosting Guide: Tor Websites"
-                          :url "https://cleberg.net/blog/self-hosting-tor.html")
-                  (:date "2025-11-23"
-                          :title "Practical Uses for AI in IT Audit"
-                          :url "https://cleberg.net/blog/it-audit-ai.html")))))
+                          :url "https://cleberg.net/blog/self-hosting-tor.html")))))
 
 (defun christian/display-profile ()
   "Pretty‑print the profile in a *Help* buffer."
