@@ -25,21 +25,21 @@
     (site-url    . "https://cleberg.net")
     (tor-url     . "http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion")
     (blog-posts  .
-                 ((:date "2026-02-08"
+                 ((:date "2026-02-12"
+                         :title "Automating Weblorg Deployments with GitHub Actions"
+                         :url "https://cleberg.net/blog/automating-weblorg-deployments.html")
+                 (:date "2026-02-08"
                          :title "Managing My Dotfiles with GNU Stow and Git"
                          :url "https://cleberg.net/blog/gnu-stow.html")
                  (:date "2026-02-07"
                          :title "IndieWeb Carnival: Intersecting Interests"
-                         :url "https://cleberg.net/blog/indiweb-carnival-2026-02-intersecting-interests.$
+                         :url "https://cleberg.net/blog/indiweb-carnival-2026-02-intersecting-interests>
                  (:date "2026-02-02"
                          :title "Emacs Carnival: “Completion”"
                          :url "https://cleberg.net/blog/emacs-carnival-2026-02-completion.html")
-                  (:date "2026-01-31"
+                 (:date "2026-01-31"
                          :title "Emacs Carnival: “This Year, I Will...”"
-                         :url "https://cleberg.net/blog/emacs-carnival-2026-01-this-year-i-will.html")
-                  (:date "2025-12-20"
-                         :title "Self-Hosting Guide: Home Assistant"
-                         :url "https://cleberg.net/blog/self-hosting-home-assistant.html")))))
+                         :url "https://cleberg.net/blog/emacs-carnival-2026-01-this-year-i-will.html")))))
 
 (defun christian/display-profile ()
   "Pretty‑print the profile in a *Help* buffer."
