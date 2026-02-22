@@ -1,27 +1,16 @@
-#+begin_src el
-(defvar christian/profile
-  '((name        . "Christian")
-    (email       . "hello@cleberg.net")
-    (role        . "Tech Assurance Manager at KPMG")
-    (gpg-key     . "https://cleberg.net/gpg.txt")
-    (site-url    . "https://cleberg.net")
-    (tor-url     . "http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion")
-    (blog-posts  .
-                 ((:date "2026-02-12"
-                         :title "Automating Weblorg Deployments with GitHub Actions"
-                         :url "https://cleberg.net/blog/automating-weblorg-deployments.html")
-                 (:date "2026-02-08"
-                         :title "Managing My Dotfiles with GNU Stow and Git"
-                         :url "https://cleberg.net/blog/gnu-stow.html")
-                 (:date "2026-02-07"
-                         :title "IndieWeb Carnival: Intersecting Interests"
-                         :url "https://cleberg.net/blog/indiweb-carnival-2026-02-intersecting-interests.html")
-                 (:date "2026-02-02"
-                         :title "Emacs Carnival: “Completion”"
-                         :url "https://cleberg.net/blog/emacs-carnival-2026-02-completion.html")
-                 (:date "2026-01-31"
-                         :title "Emacs Carnival: “This Year, I Will...”"
-                         :url "https://cleberg.net/blog/emacs-carnival-2026-01-this-year-i-will.html")))))
-#+end_src
+#+title: Christian Cleberg
 
-/psst! you can run [[christian.el]] in emacs to view this information dynamically/
+Tech Assurance Manager · Emacs · Self-Hosting · Privacy
+
+- [[https://cleberg.net][cleberg.net]]
+- [[http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion][Tor]]
+- [[https://cleberg.net/gpg.txt][GPG]]
+- [[mailto:hello@cleberg.net][hello@cleberg.net]]
+
+* Recent Posts
+
+- [[https://cleberg.net/blog/auditing-aws-passwords.html][Auditing AWS Passwords]] /2026-02-21/
+- [[https://cleberg.net/blog/auditing-aws-iam-users.html][Auditing AWS IAM Users]] /2026-02-21/
+- [[https://cleberg.net/blog/automating-weblorg-deployments.html][Automating Weblorg Deployments with GitHub Actions]] /2026-02-12/
+- [[https://cleberg.net/blog/gnu-stow.html][Managing My Dotfiles with GNU Stow and Git]] /2026-02-08/
+- [[https://cleberg.net/blog/indieweb-carnival-2026-02-intersecting-interests.html][IndieWeb Carnival: "Intersecting Interests"]] /2026-02-07/
