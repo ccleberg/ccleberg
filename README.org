@@ -1,16 +1,15 @@
-#+title: Christian Cleberg
+*Christian Cleberg*
 
 Tech Assurance Manager · Emacs · Self-Hosting · Privacy
 
-- [[https://cleberg.net][cleberg.net]]
-- [[http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion][Tor]]
-- [[https://cleberg.net/gpg.txt][GPG]]
-- [[mailto:hello@cleberg.net][hello@cleberg.net]]
+[[https://cleberg.net][cleberg.net]] ([[http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
 
-* Recent Posts
+*Recent Posts*
 
-- [[https://cleberg.net/blog/auditing-aws-passwords.html][Auditing AWS Passwords]] /2026-02-21/
-- [[https://cleberg.net/blog/auditing-aws-iam.html][Auditing AWS IAM Users]] /2026-02-21/
-- [[https://cleberg.net/blog/automating-weblorg-deployments.html][Automating Weblorg Deployments with GitHub Actions]] /2026-02-12/
-- [[https://cleberg.net/blog/gnu-stow.html][Managing My Dotfiles with GNU Stow and Git]] /2026-02-08/
-- [[https://cleberg.net/blog/indiweb-carnival-2026-02-intersecting-interests.html][IndieWeb Carnival: "Intersecting Interests"]] /2026-02-07/
+| Timestamp  | Post |
+|------------+------|
+| 2026-02-21 | [[https://cleberg.net/blog/auditing-aws-passwords.html][Auditing AWS Passwords]] |
+| 2026-02-21 | [[https://cleberg.net/blog/auditing-aws-iam.html][Auditing AWS IAM Users]] |
+| 2026-02-12 | [[https://cleberg.net/blog/automating-weblorg-deployments.html][Automating Weblorg Deployments with GitHub Actions]] |
+| 2026-02-08 | [[https://cleberg.net/blog/gnu-stow.html][Managing My Dotfiles with GNU Stow and Git]] |
+| 2026-02-07 | [[https://cleberg.net/blog/indiweb-carnival-2026-02-intersecting-interests.html][IndieWeb Carnival: "Intersecting Interests"]] |
