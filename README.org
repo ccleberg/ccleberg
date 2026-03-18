@@ -4,6 +4,8 @@ Tech Assurance Manager · Emacs · Self-Hosting · Privacy
 
 [[https://cleberg.net][cleberg.net]] ([[http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
 
+Primary development happens on [[https://sr.ht/~ccleberg/][SourceHut]]; GitHub is a read-only mirror.
+
 *Recent Posts*
 
 | Timestamp  | Post |
