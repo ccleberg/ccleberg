@@ -1,6 +1,6 @@
 *Christian Cleberg*
 
-Tech Assurance Manager · Emacs · Self-Hosting · Privacy
+Tech Assurance · Emacs · Self-Hosting · Privacy
 
 [[https://cleberg.net][cleberg.net]] ([[http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
 
@@ -15,3 +15,8 @@ Primary development happens on [[https://sr.ht/~ccleberg/][SourceHut]]; GitHub i
 | 2026-02-21 | [[https://cleberg.net/blog/auditing-aws-passwords.html][Auditing AWS Passwords]] |
 | 2026-02-21 | [[https://cleberg.net/blog/auditing-aws-iam.html][Auditing AWS IAM Users]] |
 | 2026-02-12 | [[https://cleberg.net/blog/automating-weblorg-deployments.html][Automating Weblorg Deployments with GitHub Actions]] |
+
+*Work*
+
+- [[https://zerolabs.sh][Zero Labs]] — software, tools, and experiments
+- [[https://audit-labs.dev][Audit Labs]] — audit-focused tools and guides
