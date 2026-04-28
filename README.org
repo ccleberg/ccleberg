@@ -10,11 +10,11 @@ Primary development happens on [[https://sr.ht/~ccleberg/][SourceHut]]; GitHub i
 
 | Timestamp  | Post |
 |------------+------|
+| 2026-04-22 | [[https://cleberg.net/blog/self-hosting-zerobyte.html][Automating Backups with Zerobyte & Cloudflare R2]] |
 | 2026-03-30 | [[https://cleberg.net/blog/hutch-ios.html][Announcing Hutch: An iOS Client for Sourcehut]] |
 | 2026-03-03 | [[https://cleberg.net/blog/auditing-aws-s3.html][Auditing AWS S3 Buckets]] |
 | 2026-02-21 | [[https://cleberg.net/blog/auditing-aws-passwords.html][Auditing AWS Passwords]] |
 | 2026-02-21 | [[https://cleberg.net/blog/auditing-aws-iam.html][Auditing AWS IAM Users]] |
-| 2026-02-12 | [[https://cleberg.net/blog/automating-weblorg-deployments.html][Automating Weblorg Deployments with GitHub Actions]] |
 
 *Work*
 
