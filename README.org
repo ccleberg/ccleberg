@@ -4,7 +4,7 @@ Tech Assurance · Emacs · Self-Hosting · Privacy
 
 [[https://cleberg.net][cleberg.net]] ([[http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
 
-Primary development happens on [[https://sr.ht/~ccleberg/][SourceHut]]; GitHub is a read-only mirror.
+Primary development happens on [[https://sr.ht/~ccleberg/][sourcehut]]; GitHub is a read-only mirror.
 
 *Recent Posts*
 
@@ -18,5 +18,5 @@ Primary development happens on [[https://sr.ht/~ccleberg/][SourceHut]]; GitHub i
 
 *Work*
 
-- [[https://zerolabs.sh][Zero Labs]] — software, tools, and experiments
-- [[https://audit-labs.dev][Audit Labs]] — audit-focused tools and guides
+- [[https://zerolabs.sh][zero labs]] — software, tools, and experiments
+- [[https://audit-labs.dev][audit labs]] — audit-focused tools and guides
