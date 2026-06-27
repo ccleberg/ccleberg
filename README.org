@@ -10,11 +10,11 @@ Primary development happens on [[https://sr.ht/~ccleberg/][sourcehut]]; GitHub i
 
 | Timestamp  | Post |
 |------------+------|
+| 2026-06-26 | [[https://cleberg.net/blog/homelab-maintenance.html][I Don't Maintain My Homelab]] |
 | 2026-06-18 | [[https://cleberg.net/blog/junited.html][Junited 2026]] |
 | 2026-06-01 | [[https://cleberg.net/blog/macos-motd.html][Bring MOTD to macOS]] |
 | 2026-05-20 | [[https://cleberg.net/blog/git-is-not-github.html][Git Is Not GitHub]] |
 | 2026-05-13 | [[https://cleberg.net/blog/plain.html][Plain Text, Plain Language]] |
-| 2026-04-22 | [[https://cleberg.net/blog/self-hosting-zerobyte.html][Automating Backups with Zerobyte & Cloudflare R2]] |
 
 *Work*
 
