@@ -4,17 +4,15 @@ Tech Assurance · Emacs · Self-Hosting · Privacy
 
 [[https://cleberg.net][cleberg.net]] ([[http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
 
-Primary development happens on [[https://sr.ht/~ccleberg/][sourcehut]]; GitHub is a read-only mirror.
-
 *Recent Posts*
 
 | Timestamp  | Post |
 |------------+------|
+| 2026-07-25 | [[https://cleberg.net/blog/app-store-small-wins.html][Small Wins on the App Store]] |
+| 2026-07-21 | [[https://cleberg.net/blog/skunkyart-fork.html][Forking SkunkyArt]] |
 | 2026-07-16 | [[https://cleberg.net/blog/re-your-rss-reader-is-robbing-you.html][Re: Your RSS Reader Is Robbing You]] |
 | 2026-07-16 | [[https://cleberg.net/blog/re-torvalds-on-ai.html][Re: Quoting Linus Torvalds]] |
 | 2026-07-06 | [[https://cleberg.net/blog/the-night-feeling.html][The Night Feeling]] |
-| 2026-06-29 | [[https://cleberg.net/blog/internet.html][The Internet I Grew Up With Doesn't Exist Anymore]] |
-| 2026-06-26 | [[https://cleberg.net/blog/homelab-maintenance.html][I Don't Maintain My Homelab]] |
 
 *Work*
 
