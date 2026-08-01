@@ -2,7 +2,7 @@
 
 Tech Assurance · Emacs · Self-Hosting · Privacy
 
-[[https://cleberg.net][cleberg.net]] ([[http://sv3g2dlyvwyk2nvi3eeh55fcrpdvjlclhi6wwsx57cste6lwdjanzyyd.onion][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
+[[https://cleberg.net][cleberg.net]] ([[paske4urhs6nttrtlkuwa5cowum3fjkc6yv6kl4ncx3mjxcd77764nqd.onion][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
 
 *Recent Posts*
 
