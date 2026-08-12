@@ -16,5 +16,5 @@ Tech Assurance · Emacs · Self-Hosting · Privacy
 
 *Work*
 
-- [[https://zerolabs.sh][zero labs]] — software, tools, and experiments
+- [[https://krz.sh][krz]] — software, tools, and experiments
 - [[https://audit-labs.dev][audit labs]] — audit-focused tools and guides
