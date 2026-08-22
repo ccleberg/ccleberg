@@ -2,17 +2,17 @@
 
 Tech Assurance · Emacs · Self-Hosting · Privacy
 
-[[https://cleberg.net][cleberg.net]] ([[paske4urhs6nttrtlkuwa5cowum3fjkc6yv6kl4ncx3mjxcd77764nqd.onion][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
+[[https://cleberg.net][cleberg.net]] ([[http://paske4urhs6nttrtlkuwa5cowum3fjkc6yv6kl4ncx3mjxcd77764nqd.onion/][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
 
 *Recent Posts*
 
 | Timestamp  | Post |
 |------------+------|
+| 2026-08-20 | [[https://cleberg.net/blog/nfogen.html][Generating Scene-Style NFO Files in 2026]] |
 | 2026-08-11 | [[https://cleberg.net/blog/orgo.html][I Built My Own Org-Mode Static Site Generator]] |
 | 2026-08-10 | [[https://cleberg.net/blog/pb.html][People & Blogs: Christian]] |
 | 2026-07-30 | [[https://cleberg.net/blog/10gbps.html][Upgrading My Homelab to 10 Gbps]] |
 | 2026-07-25 | [[https://cleberg.net/blog/app-store-small-wins.html][Small Wins on the App Store]] |
-| 2026-07-21 | [[https://cleberg.net/blog/skunkyart-fork.html][Forking SkunkyArt]] |
 
 *Work*
 
