@@ -1,6 +1,6 @@
 *Christian Cleberg*
 
-Tech Assurance · Emacs · Self-Hosting · Privacy
+Org-Mode · Self-Hosting · Privacy
 
 [[https://cleberg.net][cleberg.net]] ([[http://paske4urhs6nttrtlkuwa5cowum3fjkc6yv6kl4ncx3mjxcd77764nqd.onion/][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
 
