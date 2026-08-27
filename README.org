@@ -4,6 +4,12 @@ Org-Mode · Self-Hosting · Privacy
 
 [[https://cleberg.net][cleberg.net]] ([[http://paske4urhs6nttrtlkuwa5cowum3fjkc6yv6kl4ncx3mjxcd77764nqd.onion/][Tor]]) · [[mailto:hello@cleberg.net][hello@cleberg.net]] ([[https://cleberg.net/gpg.txt][GPG]])
 
+My projects and source code live primarily on my own forge:
+
+[[https://gitbay.org/cmc][gitbay.org/cmc]]
+
+This GitHub profile is a read-only mirror. For the canonical repositories, issues, and project activity, visit my GitBay profile.
+
 *Recent Posts*
 
 | Timestamp  | Post |
